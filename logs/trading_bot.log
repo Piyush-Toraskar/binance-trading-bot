@@ -1,0 +1,1 @@
+{"timestamp": "2026-03-28T19:05:00", "level": "INFO", "logger": "bot.orders", "message": "Dry run requested; order not sent", "event": {"request": {"symbol": "BTCUSDT", "side": "BUY", "type": "MARKET", "quantity": "0.001"}}}
